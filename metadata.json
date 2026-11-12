@@ -1,0 +1,6 @@
+{
+  "name": "UPKS Track — Sistem Pengurusan & Penjejakan Aset Instrumen",
+  "description": "Aplikasi pengurusan dan penjejakan aset instrumen makmal UPKS LGM dwibahasa dengan carian pantas, imbasan Kod QR, semakan kalibrasi, aliran pinjaman dan jejak audit.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
